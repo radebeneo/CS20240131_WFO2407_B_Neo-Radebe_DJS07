@@ -42,7 +42,7 @@ export default function App() {
       <header className="header">
         <img src="/vite.svg" className="header--image" alt="Logo" />
         <h1 className="header--title">Meme Generator</h1>
-        <h3 className="header--project">React Course - Project 3</h3>
+        <h3 className="header--project">Learn React</h3>
       </header>
 
       <main>
