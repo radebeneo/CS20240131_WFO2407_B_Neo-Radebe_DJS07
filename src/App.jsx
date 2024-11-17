@@ -6,7 +6,7 @@ export default function App() {
     topText: '',
     bottomText: '',
     randomImage: 'https://i.imgflip.com/1bij.jpg', // Default meme image
-  });
+  }); 
 
   // Fetch meme data
   useEffect(() => {
